@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/vikaushi/Projects/:/",
+      "/content/vikaushi/Projects/configuration:/.helix/config.json",
+      "/content/vikaushi/Projects/metadata:/metadata.json",
+      "/content/vikaushi/Projects/configs:/configs.json",
+      "/content/vikaushi/Projects/configs-stage:/configs-stage.json",
+      "/content/vikaushi/Projects/configs-dev:/configs-dev.json",
+      "/content/vikaushi/Projects/redirects:/redirects.json",
+      "/content/vikaushi/Projects/placeholders:/placeholders.json",
+      "/content/vikaushi/Projects/products/recommended-products:/products/recommended-products.json",
+      "/content/vikaushi/Projects/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/vikaushi/Projects/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/vikaushi/Projects",
       "/content/dam/citisignal/images/products/"
     ]
 }
